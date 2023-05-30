@@ -1,0 +1,17 @@
+
+/.gradle/
+/build/
+/.idea/
+/out/
+/forge-1.16.5-36.1.16.jar
+/tmp/
+/bin/
+/.settings/
+/.classpath
+/.project
+/repo/
+/Bookshelf-1.16.4-9.0.7-TAMPERED.jar
+/Bookshelf-1.16.4-9.0.7-UNTAMPERED.jar
+/inventorysorter-1.16.1-18.0.0.jar
+/modlauncher-9.0.1.jar
+/test.jar
